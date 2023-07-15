@@ -1,5 +1,5 @@
 import asyncio
-from db import discord, polaris
+from db_con_py import discord, polaris
 
 
 async def init():

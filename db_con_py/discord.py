@@ -1,4 +1,3 @@
-import asyncio
 import os
 
 from tortoise import Tortoise, fields
